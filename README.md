@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently a 3rd year student building web applications. I am currently learning full stack web development, MERN stack precisely. I have a good grip over data structures and algorithms with over 800+ questions solved acorss different problem solving platforms. I enjoy doing leetcode and have a rating of 1900+ with knight badge. I have worked upon several small projects such as building different React applications, I have also created clone of some popular applications for learning purpose and currently am builing my own application "after the last page" about which if breifed on my repository with the same name
+I am a third-year Computer Science student with a strong interest in software development and problem solving. Currently, I am focused on learning full-stack web development, with a particular emphasis on the MERN stack.
+
+I have a solid foundation in Data Structures and Algorithms, having solved over 800 problems across various coding platforms. I enjoy competitive programming and regularly practice on LeetCode, where I have achieved a rating of 1900+ along with the Knight badge.
+
+Over time, I have built several small-scale projects, including multiple React applications and clones of popular platforms to strengthen my understanding of frontend and full-stack development. At present, I am working on my own application, "After the Last Page," which reflects my interest in building meaningful products and applying my development skills to real-world ideas.
+
+I am passionate about continuously improving my technical skills, exploring new technologies, and building projects that challenge me as a developer.
 
 
 ## 🌐 Socials:
@@ -12,13 +18,8 @@ I am currently a 3rd year student building web applications. I am currently lear
 ![](https://nirzak-streak-stats.vercel.app/?user=V-Rytham&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Rytham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=V-Rytham&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=V-Rytham&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![https://github.com/V-Rytham/After-The-Last-Page](https://github-contributor-stats.vercel.app/api?username=V-Rytham&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=V-Rytham&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
